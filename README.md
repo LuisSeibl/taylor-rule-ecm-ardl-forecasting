@@ -7,7 +7,7 @@ This repository provides an econometric analysis and R implementation for enhanc
 ## 📄 Repository Structure
 
 * `Improvement_of_Taylor_rule_forecast_ECM_ARDL.R`: R script containing data preprocessing, ARDL/ECM model estimation, bounds testing, and forecasting evaluation[cite: 1].
-* `Improvement_of_Taylor_rule_forecast_ECM_ARDL.pdf`: Accompanying research paper/documentation detailing the theoretical framework, empirical findings, and forecast evaluation[cite: 1].
+* `Improvement_of_Taylor_rule_forecast_ECM_ARDL.pdf`: Seminar paper detailing the theoretical framework, empirical findings, and forecast evaluation[cite: 1].
 
 ---
 
